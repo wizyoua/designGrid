@@ -1,0 +1,331 @@
+[
+        {
+        "Name": "Custom",
+        "Ingredients": [{
+            "Bread": {
+                "Type": [{
+                    "id" : 1,
+                    "Name": "White",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                    
+                }, {
+                    "id" : 2,
+                    "Name": "Wheat",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                    
+                }]
+            }
+        }, {
+            "Meats": {
+                "Type": [{
+
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Veggies": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                },{
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                },{
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Condiments": {
+                "Type": [{
+                    "Name": "sauce1",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "lemon sauce",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }],
+        "Price": 6.49
+        },  
+        {
+        "Name": "Ya Boy",
+        "Ingredients": [{
+            "Bread": {
+                "Type": [{
+                    "id" : 1,
+                    "Name": "White",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "id" : 2,
+                    "Name": "Wheat",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Meats": {
+                "Type": [{
+
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Veggies": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Condiments": {
+                "Type": [{
+                    "Name": "sauce1",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "lemon sauce",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }],
+        "Price": 6.49
+    }, {
+        "Name": "Gio",
+        "Ingredients": [{
+            "Bread": {
+                "Type": [{
+                    "Name": "White",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Wheat",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Meats": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Veggies": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Condiments": {
+                "Type": [{
+                    "Name": "sauce1",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "lemon sauce",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }],
+        "Price": 6.49
+    }, {
+        "Name": "green",
+        "Ingredients": [{
+            "Bread": {
+                "Type": [{
+                    "Name": "White",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Wheat",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Meats": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Veggies": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Condiments": {
+                "Type": [{
+                    "Name": "sauce1",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "lemon sauce",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }],
+        "Price": 6.49
+    },{
+        "Name": "green",
+        "Ingredients": [{
+            "Bread": {
+                "Type": [{
+                    "Name": "White",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Wheat",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Meats": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Veggies": {
+                "Type": [{
+                    "Name": "steak",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "Chicken",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }, {
+            "Condiments": {
+                "Type": [{
+                    "Name": "sauce1",
+                    "Present": true,
+                    "Price": 6.95,
+                    "Double": false
+                }, {
+                    "Name": "lemon sauce",
+                    "Present": false,
+                    "Price": 6.95,
+                    "Double": false
+                }]
+            }
+        }],
+        "Price": 6.49
+    }]
